@@ -3,7 +3,7 @@
 
 ## Objetivo
 
-	Crear un endpoint que permita relaizar operaciones básica
+	Crear un endpoint que permita realizar peticiones GET y POST para gatitos, en realidad es muy muy sencillo, la clase tiene dos atributos.
 
 ### Herramientas 
 
